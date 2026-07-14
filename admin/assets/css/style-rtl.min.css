@@ -1,0 +1,495 @@
+@font-face {
+  font-family: shabnam;
+  src: url('shabnam.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.body.rtl , .adminmenu , .wp-menu-name {
+    font-family: shabnam;
+  
+}
+
+.wp-has-current-submenu
+{
+    font-family: shabnam;
+}
+
+.mce-rtl , .mce-menubtn , .mce-fixed-width {
+    font-family: shabnam;
+}
+
+.rtl .wp-switch-editor {
+    font-family: shabnam;
+}
+
+.dom-options {
+    margin-left: 20px;
+    margin-right: 0
+}
+
+.dom-header h1 {
+    float: right;
+	font-family: shabnam;
+}
+
+.dom-header fieldset {
+    float: left
+}
+
+.dom-buttons {
+    float: left;
+    direction: ltr;
+}
+
+.dom-header-left {
+    float: right
+}
+
+.dom-header-right {
+    float: left
+}
+
+.dom-nav {
+    float: right
+}
+
+.dom-nav ul {
+    clear: right
+}
+
+.dom-nav ul li .dom-active:after {
+    right: auto;
+    left: 0;
+    border-left-color: #fff;
+    border-right-color: transparent
+}
+
+.dom-nav ul li .dom-arrow:after {
+    content: "\f053";
+    right: auto;
+    left: 10px
+}
+
+.dom-nav ul li.dom-tab-expanded .dom-arrow:after {
+    transform: rotate(-90deg)
+}
+
+.dom-nav ul ul li a {
+    padding-right: 25px;
+    padding-left: 15px
+}
+
+.dom-nav ul ul:before {
+    left: auto;
+    right: 15px
+}
+
+.dom-nav .dom-tab-icon {
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.dom-nav-background {
+    left: auto;
+    right: 0
+}
+
+.dom-content {
+    margin-left: 0;
+    margin-right: 225px
+}
+
+.dom-sections {
+    float: right
+}
+
+.dom-show-all .dom-content {
+    margin-right: 0;
+    overflow: hidden
+}
+
+.dom-expand-all {
+    float: right;
+    right: auto;
+    left: 40px;
+    margin-right: 0;
+    margin-left: 4px
+}
+
+.dom-search {
+    float: right
+}
+
+.dom-search input {
+    margin: 0 0 0 5px
+}
+
+.dom-copyright {
+    float: right;
+    font-family: shabnam;
+	color:mediumpurple;
+	font-weight: 500;
+	font-size: 13px;
+    text-decoration:none;
+}
+
+.dom-metabox {
+    margin: -6px -12px -12px -12px
+}
+
+.dom-metabox .dom-section-title {
+    padding: 20px
+}
+
+.dom-section-title .dom-section-icon {
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.dom-field .dom-title {
+    float: right
+}
+
+.dom-field .dom-fieldset {
+    float: left
+}
+
+.dom-pseudo-field {
+    padding: 0 0 0 5px!important
+}
+
+.dom-field-typography select {
+    margin: 0;
+    width: 100%
+}
+
+.dom-field-typography .dom--blocks-inputs .dom--blocks {
+    flex-direction: row-reverse
+}
+
+.dom-field-typography .dom--unit {
+    left: 4px;
+    right: auto
+}
+
+.dom-field-checkbox ul ul li,.dom-field-radio ul ul li {
+    margin-left: 0;
+    margin-right: 8px
+}
+
+.dom-field-checkbox ul ul li:first-child,.dom-field-radio ul ul li:first-child {
+    margin-right: 0
+}
+
+.dom-field-checkbox .dom--inline-list li,.dom-field-radio .dom--inline-list li {
+    margin-right: 0;
+    margin-left: 15px
+}
+
+.dom-field-checkbox .dom--text,.dom-field-radio .dom--text {
+    margin-left: 0;
+    margin-right: 5px
+}
+
+.dom-field-switcher .dom--switcher {
+    float: right
+}
+
+.dom-field-switcher .dom--label {
+    float: right;
+    margin-left: 0;
+    margin-right: 5px
+}
+
+.dom-field-upload .dom--button,.dom-field-upload .dom--remove {
+    margin-left: 0;
+    margin-right: 5px;
+    background: #5411ab;
+}
+
+.dom-field-group .dom-cloneable-title {
+    padding: 15px 10px 15px 65px
+}
+
+.dom-field-group .dom-cloneable-helper {
+    right: auto;
+    left: 10px
+}
+
+.dom-field-repeater .dom-repeater-helper {
+    border-left: 0;
+    border-right: 1px solid #eee
+}
+
+.dom-help {
+    right: auto;
+    left: 5px
+}
+
+.dom-field-icon .button {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-field-icon .dom-icon-preview i {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-field-gallery ul li {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-field-gallery .button {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-field-tabbed .dom-tabbed-nav .dom--icon {
+    padding-right: 0;
+    padding-left: 5px
+}
+
+.dom-field-tabbed .dom-tabbed-nav a {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-field-media .button {
+    margin-left: 0;
+    margin-right: 7px;
+    background: #5411ab;
+
+}
+
+.dom-field-media .hidden+.button {
+    margin-right: 0
+}
+
+.dom-notice {
+    border-left: none;
+    border-right-style: solid;
+    border-right-width: 4px
+}
+
+.dom-field-border .dom--input,.dom-field-border .dom-fieldset,.dom-field-dimensions .dom--input,.dom-field-dimensions .dom-fieldset,.dom-field-spacing .dom--input,.dom-field-spacing .dom-fieldset {
+    direction: ltr
+}
+
+.dom-field-border .dom--color,.dom-field-border .dom--inputs,.dom-field-dimensions .dom--color,.dom-field-dimensions .dom--inputs,.dom-field-spacing .dom--color,.dom-field-spacing .dom--inputs {
+    float: right
+}
+
+.dom-field-border .dom--color,.dom-field-dimensions .dom--color,.dom-field-spacing .dom--color {
+    margin-right: 4px;
+    direction: rtl
+}
+
+.dom-field-background .dom--block {
+    float: right
+}
+
+.dom-field-background .dom--media,.dom-field-background .dom--select {
+    padding-right: 0
+}
+
+.dom-field-background .dom--title {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-field-spinner .dom--spin {
+    float: right;
+    direction: ltr
+}
+
+.dom-field-slider .dom-slider-ui {
+    direction: ltr;
+    margin-right: 0;
+    margin-left: 15px
+}
+
+.dom-field-slider .dom--input {
+    direction: ltr
+}
+
+.dom-field-button_set .dom--button-group {
+    float: right
+}
+
+.dom-field-link_color .dom--left {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px
+}
+
+.dom-field-color_group .dom--left {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px
+}
+
+.dom-field-palette .dom--palette {
+    margin-right: 0;
+    margin-left: 10px
+}
+
+.dom-field-accordion .dom--icon {
+    margin-right: 0;
+    margin-left: 2px
+}
+
+.dom-field-date .dom--to {
+    margin-left: 0;
+    margin-right: 7px
+}
+
+.dom-field-map .dom--map-input:last-child {
+    padding-left: 0;
+    padding-right: 10px
+}
+
+.dom-field-sortable .dom-sortable-helper {
+    border-left: none;
+    border-right: 1px solid #eee
+}
+
+.dom-field-number .dom--wrap {
+    float: right
+}
+
+.dom-field-number .dom--unit {
+    left: 4px;
+    right: auto
+}
+
+.dom-taxonomy-add-fields {
+    margin-right: 0;
+    margin-left: 30px
+}
+
+.dom-taxonomy-add-fields .dom-field>.dom-fieldset>.dom-help {
+    left: -5px;
+    right: auto
+}
+
+.dom-taxonomy-edit-fields {
+    margin-right: 0;
+    margin-left: 35px
+}
+
+.dom-taxonomy-edit-fields .dom-field>.dom-fieldset>.dom-help {
+    right: auto;
+    left: -5px
+}
+
+.dom-profile-options>h2>.fa {
+    padding-right: 0;
+    padding-left: 7px
+}
+
+.dom-profile-options>.dom-field>.dom-fieldset>.dom-help {
+    left: -5px;
+    right: auto
+}
+
+.dom-nav-menu-options>.dom-fields {
+    margin-left: 0;
+    margin-right: -10px
+}
+
+.dom-nav-menu-title {
+    padding-left: 14px;
+    padding-right: 12px
+}
+
+.dom-nav-menu-icon {
+    margin-right: 0;
+    margin-left: 5px
+}
+
+.dom-modal-content .dom-field {
+    padding: 15px 15px 15px 30px
+}
+
+.dom-modal-title {
+    padding: 0 16px 0 36px
+}
+
+.dom-modal-close {
+    right: auto;
+    left: 0
+}
+
+.control-section .dom-field .dom-fieldset {
+    margin-right: 0
+}
+
+@media only screen and (max-width: 1200px) {
+    .dom-metabox .dom-field .dom-fieldset {
+        margin-left:0
+    }
+}
+
+@media only screen and (max-width: 782px) {
+    .dom .dom-content,.dom .dom-fieldset {
+        margin-right:0
+    }
+}
+
+.dom-field .dom--transparent-slider {
+    margin-left: 0;
+    margin-right: 2px
+}
+
+.dom-field .dom--transparent-slider .ui-slider-handle {
+    margin: 0 -11px
+}
+
+.dom-field .dom--transparent-offset {
+    background-position: center right
+}
+
+.dom-field .dom--transparent-text {
+    right: auto;
+    left: 10px
+}
+
+/* Domina template selector: keep all template previews uniform and responsive. */
+.dom-template-selector .dom--image-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.dom-template-selector .dom--image {
+    flex: 0 1 300px;
+    width: 300px;
+    max-width: 100%;
+    margin: 0;
+}
+
+.dom-template-selector figure {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    aspect-ratio: 5 / 4;
+    overflow: hidden;
+}
+
+.dom-template-selector img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 782px) {
+    .dom-template-selector .dom--image {
+        flex-basis: min(300px, 100%);
+    }
+}
