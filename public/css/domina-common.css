@@ -1,0 +1,121 @@
+.domina-honeypot {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.screen-reader-text {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.loader-wrapper {
+  transition: opacity .35s ease, visibility .35s ease;
+}
+
+.loader-wrapper.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.domina-contact-form :is(input, textarea, button, a):focus-visible,
+.domina-notice__close:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}
+
+.domina-notice {
+  position: fixed;
+  z-index: 999999;
+  inset-inline-end: 24px;
+  bottom: 24px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  width: min(420px, calc(100vw - 32px));
+  padding: 18px 18px 18px 20px;
+  border-radius: 18px;
+  color: #fff;
+  background: #20242b;
+  box-shadow: 0 22px 60px rgba(0, 0, 0, .28);
+  transform: translateY(24px);
+  opacity: 0;
+  transition: transform .3s ease, opacity .3s ease;
+  font-family: inherit;
+  direction: rtl;
+}
+
+.domina-notice.is-visible {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.domina-notice--success {
+  background: #166534;
+}
+
+.domina-notice--error {
+  background: #991b1b;
+}
+
+.domina-notice__content {
+  display: grid;
+  gap: 4px;
+  flex: 1;
+}
+
+.domina-notice__title {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.domina-notice__description {
+  font-size: 13px;
+  line-height: 1.8;
+  opacity: .9;
+}
+
+.domina-notice__close {
+  appearance: none;
+  border: 0;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: inherit;
+  background: rgba(255, 255, 255, .14);
+  cursor: pointer;
+  font-size: 22px;
+  line-height: 1;
+}
+
+@media (max-width: 600px) {
+  .domina-notice {
+    inset-inline: 16px;
+    bottom: 16px;
+    width: auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}

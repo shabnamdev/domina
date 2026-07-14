@@ -1,0 +1,177 @@
+/* Page transitions */
+main {
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+}
+
+.content {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+
+.content--intro {
+	z-index: 100;
+	height: 200vh;
+}
+
+.content--fixed {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-position: 50% 50%;
+	background-size: cover;
+}
+
+
+.content__inner {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.content--intro .content__inner {
+	background: #fff;
+}
+
+
+.shape-wrap {
+	position: relative;
+	z-index: 10;
+}
+
+.shape {
+	height: 100vh;
+	width: 100%;
+	display: block;
+}
+
+.content__title {
+	font: var(--font-alt);
+	color: var(--color-title);
+	margin: 0;
+	line-height: 1;
+}
+
+
+.menu {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.menu__item {
+	font: var(--font-alt);
+	font-size: 3vw;
+	color: var(--color-menu-item);
+	margin: 0 1em;
+	position: relative;
+	line-height: 1;
+}
+
+.menu__item:hover,
+.menu__item:focus {
+	color: var(--color-menu-item-hover);
+}
+
+.menu__item:nth-child(2):hover {
+	color: var(--color-menu-item-hover-alt);
+}
+
+.demo-2 .menu__item {
+	pointer-events: none;
+	padding: 3em;
+}
+
+.demo-2 .menu__item span {
+	pointer-events: auto;
+}
+
+.content__text {
+	font-size: 1.85em;
+	max-width: 800px;
+	text-align: left;
+}
+
+.content__text a {
+	color: var(--color-menu-item);
+}
+
+.content__text a:hover, 
+.content__text a:focus {
+	color: var(--color-menu-item-hover);
+}
+
+.next-demo {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 1.5em 2em;
+	font-weight: bold;
+	color: var(--color-next);
+	font-family: 'morabba';	
+    direction: ltr;	
+}
+
+.next-demo:hover,
+.next-demo:focus {
+	color: var(--color-next-hover);
+}
+
+@media screen and (max-width: 50em) {
+	.frame {
+		z-index: 1000;
+		display: block;
+		padding: 0.85em 0;
+	}
+	.demos {
+		font-size: 0.85em;
+		padding: 0 0.25em;
+	}
+	.codrops-header {
+		flex-direction: column;
+		align-items: center;
+		padding-top: 5em;
+	}
+	.codrops-header__title {
+		font-weight: bold;
+		padding-bottom: 0.25em;
+		text-align: center;
+	}
+	.github {
+		display: none;
+	}
+	.codrops-links {
+		margin: 0;
+	}
+
+	.content__title {
+		font-size: 2em;
+	}
+	.demo {
+		padding: 0;
+		margin: 0;
+	}
+	.menu__item {
+		margin: 0.5em 0;
+		font-size: 1.5em;
+	}
+	.content__text {
+		padding: 1em;
+		font-size: 1em;
+	}
+	.next-demo {
+		position: relative;
+		font-family: 'morabba';		
+	}
+}
+/* @media screen and (max-height: 700px) {
+	.content__inner {
+		height: 100%;
+	}
+} */

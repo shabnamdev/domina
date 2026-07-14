@@ -1,0 +1,104 @@
+$light: #ffffff;
+$dark: #111111;
+$gray: #777777;
+$gray_2: #eeeded;
+$primary: #af0a79;
+$secondary: #fe880a;
+
+/* GREDIENTS */
+
+.primary-gredient {
+	@include linear-gradient(rgb(252, 215, 2), rgb(234, 66, 1), left);
+}
+
+/* COLORS */
+
+.color-transparent {
+	color: transparent!important;
+}
+
+.light-color {
+	color: $light!important;
+}
+
+.dark-color {
+	color: $dark!important;
+}
+
+.gray-color {
+	color: $gray!important;
+}
+
+.gray-color-2 {
+	color: $gray_2!important;
+}
+
+.primary-color {
+	color: $primary!important;
+}
+
+.secondary-color {
+	color: $secondary!important;
+}
+
+
+/* BACKGROUNDS */
+
+.transparent-bg {
+	background-color: transparent!important;
+}
+
+.light-bg {
+	background: $light!important;
+}
+
+.dark-bg {
+	background: $dark!important;
+}
+
+.gray-bg {
+	background: $gray!important;
+}
+
+.gray-bg-2 {
+	background: $gray_2!important;
+}
+
+.primary-bg {
+	background: $primary!important;
+}
+
+.secondary-bg {
+	background: $secondary!important;
+}
+
+
+/* BORDERS */
+
+.transparent-border {
+	border-color: transparent!important;
+}
+
+.light-border {
+	border-color: $light!important;
+}
+
+.dark-border {
+	border-color: $dark!important;
+}
+
+.gray-border {
+	border-color: $gray!important;
+}
+
+.gray-border-2 {
+	border-color: $gray_2!important;
+}
+
+.primary-border {
+	border-color: $primary!important;
+}
+
+.secondary-border {
+	border-color: $secondary!important;
+}

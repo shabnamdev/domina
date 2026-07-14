@@ -1,0 +1,1052 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Domina Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-03 10:09+0000\n"
+"PO-Revision-Date: 2024-10-17 13:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: domina-pro"
+
+#: admin/config/admin-options.php:251
+msgid " +111 00 555 9875"
+msgstr "+9891012120"
+
+#: admin/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr "&#8658; چپ به راست"
+
+#: admin/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr "&#8659; بالا به پایین"
+
+#: admin/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr "&#8664; گوشه بالا به راست"
+
+#: admin/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr "&#8665; گوشه بالا به چپ"
+
+#: admin/config/admin-options.php:445
+msgid "2k Unique Visitors"
+msgstr "2k بازدید کننده منحصر به فرد"
+
+#: admin/config/admin-options.php:451
+msgid "35% New Visits"
+msgstr "35٪ بازدیدهای جدید"
+
+#: admin/config/admin-options.php:442
+msgid "7k Visits"
+msgstr "7 هزار بازدید"
+
+#: admin/config/admin-options.php:448
+msgid "9k Pageviews"
+msgstr "9 هزار بازدید از صفحه"
+
+#: public/class-domina-pro-public.php:144
+msgid "Accordion Shortcode"
+msgstr "کد کوتاه آکاردئون"
+
+#: public/class-domina-pro-public.php:143
+msgid "Accordion Shortcode  Title"
+msgstr "عنوان کد کوتاه آکاردئون"
+
+#: admin/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr "فعال"
+
+#: admin/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr "افزودن گالری"
+
+#: admin/fields/icon/icon.php:20 admin/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr "افزودن نماد (آیکون)"
+
+#: admin/fields/link/link.php:20
+msgid "Add Link"
+msgstr "افزودن لینک"
+
+#: admin/fields/group/group.php:23
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: admin/config/admin-options.php:163
+msgid ""
+"Add your site keywords seperated by a comma eg: \"business domain, corporate "
+"domain\""
+msgstr ""
+"کلمات کلیدی سایت خود را که با کاما از هم جدا شده اند اضافه کنید: \"دامنه "
+"تجاری، دامنه شرکتی\""
+
+#: admin/fields/border/border.php:29 admin/fields/spacing/spacing.php:29
+msgid "all"
+msgstr "همه"
+
+#: admin/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr "تمام کلاه های کوچک"
+
+#: admin/fields/group/group.php:52 admin/fields/group/group.php:107
+#: admin/fields/repeater/repeater.php:48 admin/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr "آیا مطمئن هستید که این مورد را حذف می کنید؟"
+
+#: admin/classes/admin-options.class.php:517
+#: admin/classes/admin-options.class.php:640
+msgid "Are you sure to reset this section options?"
+msgstr "آیا مطمئن هستید که گزینه های این بخش را بازنشانی می کنید؟"
+
+#: admin/classes/admin-options.class.php:518
+#: admin/classes/admin-options.class.php:641
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+"آیا مطمئن هستید که می خواهید همه تنظیمات را به مقادیر پیش فرض بازنشانی کنید؟"
+
+#: admin/classes/setup.class.php:598
+msgid "Are you sure?"
+msgstr "مطمئنی؟"
+
+#: admin/fields/background/background.php:221
+msgid "Auto"
+msgstr "خودکار"
+
+#: admin/config/admin-options.php:392
+msgid ""
+"Available tags &ndash; {from}, {email}, {subject}, {message}, {date}, "
+"{siteURL}, {ip}"
+msgstr ""
+"برچسب های موجود &ndash; {from}، {email}، {subject}، {message}، {date}، "
+"{siteURL}، {ip}"
+
+#: admin/config/admin-options.php:460
+msgid "Back"
+msgstr "بازگشت"
+
+#: admin/config/admin-options.php:459
+msgid "Back to Home"
+msgstr "بازگشت به خانه"
+
+#: admin/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr "پیوست پس زمینه"
+
+#: admin/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr "حالت ترکیب پس زمینه"
+
+#: admin/fields/background/background.php:252
+msgid "Background Clip"
+msgstr "کلیپ پس زمینه"
+
+#: admin/fields/background/background.php:235
+msgid "Background Origin"
+msgstr "منشاء پس زمینه"
+
+#: admin/fields/background/background.php:161
+msgid "Background Position"
+msgstr "موقعیت پس زمینه"
+
+#: admin/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: admin/fields/background/background.php:218
+msgid "Background Size"
+msgstr "اندازه پس زمینه"
+
+#: admin/config/admin-options.php:469
+msgid "Backup"
+msgstr "پشتیبان گیری"
+
+#: admin/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr "پشتیبان گیری خانواده فونت"
+
+#: admin/config/admin-options.php:82
+msgid "Body Background Color"
+msgstr "رنگ پس زمینه بدنه"
+
+#: admin/config/admin-options.php:97
+msgid "Body Typography"
+msgstr "تایپوگرافی بدنه"
+
+#: admin/fields/background/background.php:237
+#: admin/fields/background/background.php:253
+msgid "Border Box"
+msgstr "باکس مرزی"
+
+#: admin/fields/border/border.php:27 admin/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr "پایین"
+
+#: admin/config/admin-options.php:375
+msgid "Button Label"
+msgstr "برچسب دکمه"
+
+#: admin/config/admin-options.php:260
+msgid "Buy Now <del>$670</del> $350"
+msgstr "اکنون <del>5 تومان</del> 3 تومان بخرید"
+
+#: admin/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr "بزرگ کردن"
+
+#: admin/fields/typography/typography.php:172
+msgid "Center"
+msgstr "وسط"
+
+#: admin/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr "پایین وسط"
+
+#: admin/fields/background/background.php:166
+msgid "Center Center"
+msgstr "وسط وسط"
+
+#: admin/fields/background/background.php:165
+msgid "Center Top"
+msgstr "وسط بالا"
+
+#: admin/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: admin/fields/background/background.php:278
+msgid "Color"
+msgstr "رنگ"
+
+#: admin/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr "رنگ دوج"
+
+#: admin/config/admin-options.php:318
+msgid "Contact form"
+msgstr "فرم تماس"
+
+#: admin/config/admin-options.php:233
+msgid "Contact Info"
+msgstr "اطلاعات تماس"
+
+#: admin/config/admin-options.php:247
+msgid "contact@domina.com"
+msgstr "cotact@shcd.ir"
+
+#: admin/fields/background/background.php:220
+msgid "Contain"
+msgstr "حاوی"
+
+#: admin/fields/background/background.php:238
+#: admin/fields/background/background.php:255
+msgid "Content Box"
+msgstr "جعبه محتوا"
+
+#: admin/fields/background/background.php:219
+msgid "Cover"
+msgstr "پوشش"
+
+#: admin/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr "سبک سفارشی"
+
+#: admin/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr "فونت های سفارشی وب "
+
+#: admin/fields/background/background.php:274
+msgid "Darken"
+msgstr "تاریک کنید"
+
+#: admin/fields/border/border.php:52 admin/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr "خط تیره"
+
+#: public/class-domina-pro-public.php:146
+msgid "Date"
+msgstr "تاریخ"
+
+#: admin/config/admin-options.php:393
+msgid ""
+"Dear Administrator,\n"
+"You have one message from {from} ({email}).\n"
+"\n"
+"{message}\n"
+"\n"
+"{date}\n"
+"\n"
+" This email was submitted from {siteURL}"
+msgstr ""
+"مدیر محترم،\n"
+"شما یک پیام از {from} ({email}) دارید.\n"
+"\n"
+"{message}\n"
+"\n"
+"{date}\n"
+"\n"
+" این ایمیل از {siteURL} ارسال شده است."
+
+#: admin/fields/typography/typography.php:119
+#: admin/fields/typography/typography.php:132
+#: admin/fields/typography/typography.php:145
+#: admin/fields/typography/typography.php:160
+#: admin/fields/typography/typography.php:176
+#: admin/fields/typography/typography.php:189
+#: admin/fields/typography/typography.php:203
+#: admin/fields/typography/typography.php:221
+msgid "Default"
+msgstr "پیش فرض"
+
+#: admin/classes/admin-options.class.php:241
+#: admin/classes/admin-options.class.php:257
+msgid "Default settings restored."
+msgstr "تنظیمات پیش فرض بازیابی شد."
+
+#: admin/fields/background/background.php:108
+msgid "Direction"
+msgstr "جهت"
+
+#: admin/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr "معلول"
+
+#: admin/config/admin-options.php:433
+msgid "Domain features"
+msgstr "ویژگی های دامنه"
+
+#: admin/config/admin-options.php:184
+msgid "Domain Name"
+msgstr "نام دامنه"
+
+#: admin/config/admin-options.php:178
+msgid "Domain Preloader"
+msgstr "پیش بارگزار دامنه"
+
+#. Description of the plugin
+msgid "Domain Sale And Auction WordPress Plugin"
+msgstr "افزونه وردپرس فروش و حراج دامنه"
+
+#: admin/config/admin-options.php:14
+msgid "Domina"
+msgstr "دومینا"
+
+#. Name of the plugin
+msgid "Domina Pro"
+msgstr "دومینا پرو"
+
+#: admin/config/admin-options.php:17
+msgid "Domina Pro "
+msgstr "دومینا پرو"
+
+#: admin/config/admin-options.php:33
+msgid "Domina Template"
+msgstr "قالب Domina"
+
+#: admin/config/admin-options.php:198
+msgid ""
+"Domina.com is a strong, boosting brandable name bid up about 1000 per day. "
+"This domain could be yours!"
+msgstr ""
+"Domina.com یک نام تجاری قوی و تقویت کننده است که حدود 1000 در روز قیمت دارد. "
+
+#: admin/fields/border/border.php:53 admin/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr "نقطه چین"
+
+#: admin/fields/border/border.php:54 admin/fields/typography/typography.php:215
+msgid "Double"
+msgstr "دو برابر"
+
+#: admin/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr "ویرایش گالری"
+
+#: admin/fields/link/link.php:21
+msgid "Edit Link"
+msgstr "ویرایش پیوند"
+
+#: admin/config/admin-options.php:341
+msgid "Email Field Label"
+msgstr "برچسب فیلد ایمیل"
+
+#: admin/config/admin-options.php:346
+msgid "Email Field Placeholder"
+msgstr "محل فیلد ایمیل"
+
+#: admin/config/admin-options.php:414
+msgid "Email not submitted."
+msgstr "ایمیل ارسال نشد."
+
+#: admin/config/admin-options.php:391
+msgid "Email Template"
+msgstr "الگوی ایمیل"
+
+#: admin/config/admin-options.php:43
+msgid "Enable Domain pro"
+msgstr "Domain pro را فعال کنید"
+
+#: admin/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr "فعال"
+
+#: admin/classes/admin-options.class.php:169
+msgid "Error while saving the changes."
+msgstr "خطا هنگام ذخیره تغییرات."
+
+#: admin/fields/group/group.php:41 admin/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr "خطا: شناسه فیلد تداخل دارد."
+
+#: admin/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr "صادرات"
+
+#: admin/config/admin-options.php:471
+msgid "Export or import to use same settings in different websites."
+msgstr "برای استفاده از تنظیمات یکسان در وب‌سایت‌های مختلف، صادر یا وارد کنید."
+
+#: admin/config/admin-options.php:246
+msgid "fas fa-envelope"
+msgstr "آیکون fa-envelope"
+
+#: admin/config/admin-options.php:250
+msgid "fas fa-phone-alt"
+msgstr "آیکون fa-phone-alt"
+
+#: admin/config/admin-options.php:210
+msgid "Feature List"
+msgstr "فهرست ویژگی"
+
+#: admin/classes/setup.class.php:770 admin/classes/setup.class.php:774
+msgid "Field not found!"
+msgstr "فیلد پیدا نشد!"
+
+#: admin/fields/background/background.php:204
+msgid "Fixed"
+msgstr "رفع شد"
+
+#: admin/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr "تمرکز"
+
+#: admin/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr "رنگ قلم"
+
+#: admin/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr "خانواده فونت"
+
+#: admin/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr "اندازه قلم"
+
+#: admin/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr "سبک قلم"
+
+#: admin/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr "نوع فونت"
+
+#: admin/config/admin-options.php:191
+msgid "For Sale!"
+msgstr "برای فروش!"
+
+#: admin/config/admin-options.php:420
+msgid "Form Error Description"
+msgstr "شرح خطای فرم"
+
+#: admin/config/admin-options.php:413
+msgid "Form Error Title"
+msgstr "عنوان خطای فرم"
+
+#: admin/config/admin-options.php:426
+msgid "Form Okay Button Value"
+msgstr "مقدار دکمه Okay را شکل دهید"
+
+#: admin/config/admin-options.php:406
+msgid "Form Success Description"
+msgstr "شرح موفقیت فرم"
+
+#: admin/config/admin-options.php:399
+msgid "Form Success Title"
+msgstr "عنوان موفقیت فرم"
+
+#: admin/config/admin-options.php:324
+msgid "Form title"
+msgstr "عنوان فرم"
+
+#: admin/fields/background/background.php:72 admin/fields/date/date.php:31
+#: admin/fields/datetime/datetime.php:36
+msgid "From"
+msgstr "از"
+
+#: admin/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr "فونت های وب گوگل"
+
+#: admin/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr "جهت گرادیان"
+
+#: admin/fields/border/border.php:57
+msgid "Groove"
+msgstr "شیار"
+
+#: admin/config/admin-options.php:118
+msgid "Heading Typography"
+msgstr "تایپوگرافی سرفصل"
+
+#: admin/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr "ارتفاع"
+
+#: admin/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr "شناور"
+
+#. URI of the plugin
+msgid "https://https://wp-plugins.themeatelier.net/domina"
+msgstr "https://shcd.ir/"
+
+#: admin/config/admin-options.php:295
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#. Author URI of the plugin
+msgid "https://themeatelier.net/"
+msgstr "https://shabnam.dev/"
+
+#: admin/config/admin-options.php:291
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: admin/config/admin-options.php:287
+msgid "https://www.facebook.com"
+msgstr "https://www.facebook.com"
+
+#: admin/config/admin-options.php:299
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: admin/config/admin-options.php:204
+msgid "Hurry and Make an Offer"
+msgstr "عجله کنید و پیشنهاد بدهید"
+
+#: admin/config/admin-options.php:276
+msgid "Icon for social media"
+msgstr "نماد برای رسانه های اجتماعی"
+
+#: admin/fields/backup/backup.php:26
+msgid "Import"
+msgstr "واردات"
+
+#: admin/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr "ارث بردن"
+
+#: admin/fields/typography/typography.php:175
+msgid "Initial"
+msgstr "اولیه"
+
+#: admin/fields/border/border.php:55
+msgid "Inset"
+msgstr "درج"
+
+#: admin/fields/typography/typography.php:174
+msgid "Justify"
+msgstr "توجیه کنید"
+
+#: admin/fields/map/map.php:24
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+#: admin/fields/typography/typography.php:171
+msgid "Left"
+msgstr "چپ"
+
+#: admin/fields/border/border.php:28 admin/fields/spacing/spacing.php:28
+msgid "left"
+msgstr "چپ"
+
+#: admin/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr "پایین سمت چپ"
+
+#: admin/fields/background/background.php:163
+msgid "Left Center"
+msgstr "مرکز چپ"
+
+#: admin/fields/background/background.php:162
+msgid "Left Top"
+msgstr "بالا سمت چپ"
+
+#: admin/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr "فاصله حروف"
+
+#: admin/fields/background/background.php:275
+msgid "Lighten"
+msgstr "سبک کن"
+
+#: admin/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: admin/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr "خط از طریق"
+
+#: admin/fields/typography/typography.php:144
+#: admin/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr "بارگذاری سبک های اضافی"
+
+#: admin/fields/map/map.php:25
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+#: admin/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr "حروف کوچک"
+
+#: admin/fields/background/background.php:279
+msgid "Luminosity"
+msgstr "درخشندگی"
+
+#: admin/config/admin-options.php:26
+msgid "Main Options"
+msgstr "گزینه های اصلی"
+
+#: admin/config/admin-options.php:266 admin/config/admin-options.php:325
+msgid "Make an Offer"
+msgstr "یک پیشنهاد بدهید"
+
+#: admin/config/admin-options.php:203
+msgid "make_an_offer"
+msgstr "ارائه_یک_پیشنهاد"
+
+#: admin/fields/background/background.php:271
+msgid "Multiply"
+msgstr "ضرب"
+
+#: admin/config/admin-options.php:330
+msgid "Name Field Label"
+msgstr "برچسب فیلد نام"
+
+#: admin/config/admin-options.php:335
+msgid "Name Field Placeholder"
+msgstr "مکان فیلد نام"
+
+#: admin/classes/admin-options.class.php:616
+#: admin/fields/button_set/button_set.php:56
+#: admin/fields/checkbox/checkbox.php:82 admin/fields/radio/radio.php:75
+#: admin/fields/select/select.php:113
+msgid "No data available."
+msgstr "داده ای در دسترس نیست."
+
+#: admin/fields/background/background.php:186
+msgid "No Repeat"
+msgstr "بدون تکرار"
+
+#: admin/classes/setup.class.php:601
+msgid "No results found."
+msgstr "نتیجه ای یافت نشد."
+
+#: admin/fields/border/border.php:59 admin/fields/typography/typography.php:199
+#: admin/fields/typography/typography.php:213
+msgid "None"
+msgstr "هیچکدام"
+
+#: admin/fields/background/background.php:270
+#: admin/fields/link_color/link_color.php:36
+#: admin/fields/typography/typography.php:186
+msgid "Normal"
+msgstr "عادی"
+
+#: admin/fields/background/background.php:36 admin/fields/media/media.php:59
+msgid "Not selected"
+msgstr "انتخاب نشده است"
+
+#: admin/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr "خاموش"
+
+#: admin/config/admin-options.php:265
+msgid "Offer Button"
+msgstr "دکمه پیشنهاد"
+
+#: admin/config/admin-options.php:427
+msgid "Okay"
+msgstr "باشه"
+
+#: admin/fields/switcher/switcher.php:20
+msgid "On"
+msgstr "روشن"
+
+#: admin/classes/setup.class.php:702
+msgid "Oops! Not allowed."
+msgstr "اوه! "
+
+#: admin/fields/border/border.php:56
+msgid "Outset"
+msgstr "آغاز"
+
+#: admin/fields/background/background.php:273
+msgid "Overlay"
+msgstr "روکش"
+
+#: admin/fields/typography/typography.php:219
+msgid "Overline"
+msgstr "روی خط"
+
+#: admin/fields/background/background.php:236
+#: admin/fields/background/background.php:254
+msgid "Padding Box"
+msgstr "جعبه پد"
+
+#: admin/classes/setup.class.php:599
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr "لطفاً %s یا بیشتر نویسه را وارد کنید"
+
+#: admin/config/admin-options.php:259
+msgid "Price Tag"
+msgstr "برچسب قیمت"
+
+#: admin/config/admin-options.php:363
+msgid "Proposal Field Label"
+msgstr "برچسب فیلد پروپوزال"
+
+#: admin/config/admin-options.php:368
+msgid "Proposal Field Placeholder"
+msgstr "مکان‌گردان فیلد پیشنهاد"
+
+#: admin/config/admin-options.php:219
+msgid "Quality SEO Rankings"
+msgstr "رتبه بندی کیفیت سئو"
+
+#: admin/fields/media/media.php:26 admin/fields/upload/upload.php:25
+msgid "Remove"
+msgstr "حذف کنید"
+
+#: admin/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr "حذف نماد"
+
+#: admin/fields/link/link.php:22
+msgid "Remove Link"
+msgstr "پیوند را حذف کنید"
+
+#: admin/fields/background/background.php:185
+msgid "Repeat"
+msgstr "تکرار کنید"
+
+#: admin/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr "به صورت افقی تکرار کنید"
+
+#: admin/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr "تکرار عمودی"
+
+#: admin/classes/admin-options.class.php:518
+#: admin/classes/admin-options.class.php:641 admin/fields/backup/backup.php:31
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: admin/classes/admin-options.class.php:518
+#: admin/classes/admin-options.class.php:641
+msgid "Reset All"
+msgstr "بازنشانی همه"
+
+#: admin/classes/admin-options.class.php:517
+#: admin/classes/admin-options.class.php:640
+msgid "Reset Section"
+msgstr "بازنشانی بخش"
+
+#: admin/fields/border/border.php:58
+msgid "ridge"
+msgstr "خط الراس"
+
+#: admin/fields/typography/typography.php:173
+msgid "Right"
+msgstr "درست است"
+
+#: admin/fields/border/border.php:26 admin/fields/spacing/spacing.php:26
+msgid "right"
+msgstr "درست است"
+
+#: admin/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr "پایین سمت راست"
+
+#: admin/fields/background/background.php:169
+msgid "Right Center"
+msgstr "مرکز راست"
+
+#: admin/config/admin-options.php:306
+msgid "Right Image"
+msgstr "تصویر سمت راست"
+
+#: admin/fields/background/background.php:168
+msgid "Right Top"
+msgstr "بالای راست"
+
+#: admin/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr "فونت های وب ایمن"
+
+#: admin/config/admin-options.php:197
+msgid "Sale Content"
+msgstr "محتوای فروش"
+
+#: admin/config/admin-options.php:190
+msgid "Sale Title"
+msgstr "عنوان فروش"
+
+#: admin/fields/background/background.php:277
+msgid "Saturation"
+msgstr "اشباع"
+
+#: admin/classes/admin-options.class.php:516
+#: admin/classes/admin-options.class.php:639
+msgid "Save"
+msgstr "ذخیره"
+
+#: admin/classes/admin-options.class.php:516
+#: admin/classes/admin-options.class.php:639
+msgid "Saving..."
+msgstr "ذخیره..."
+
+#: admin/fields/background/background.php:272
+msgid "Screen"
+msgstr "صفحه نمایش"
+
+#: admin/fields/background/background.php:203
+msgid "Scroll"
+msgstr "اسکرول کنید"
+
+#: admin/classes/admin-options.class.php:513 admin/fields/icon/icon.php:57
+#: admin/fields/map/map.php:23
+msgid "Search..."
+msgstr "جستجو..."
+
+#: admin/classes/setup.class.php:600
+msgid "Searching..."
+msgstr "جستجو..."
+
+#: admin/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr "یک فونت را انتخاب کنید"
+
+#: admin/config/admin-options.php:66
+msgid "Select color scheme"
+msgstr "طرح رنگ را انتخاب کنید"
+
+#: admin/config/admin-options.php:376
+msgid "Send Now"
+msgstr "اکنون ارسال کنید"
+
+#: admin/config/admin-options.php:143
+msgid "SEO"
+msgstr "سئو"
+
+#: admin/classes/admin-options.class.php:328
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: admin/classes/admin-options.class.php:229
+msgid "Settings successfully imported."
+msgstr "تنظیمات با موفقیت وارد شد."
+
+#: admin/config/admin-options.php:225
+msgid "Short URL"
+msgstr "URL کوتاه"
+
+#: admin/classes/admin-options.class.php:511
+msgid "show all settings"
+msgstr "نمایش تمام تنظیمات"
+
+#: admin/config/admin-options.php:156
+msgid "Site Description"
+msgstr "توضیحات سایت"
+
+#: admin/config/admin-options.php:162
+msgid "Site Keywords"
+msgstr "کلمات کلیدی سایت"
+
+#: admin/config/admin-options.php:149
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: admin/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr "کلاه های کوچک"
+
+#: admin/config/admin-options.php:271
+msgid "Social Media"
+msgstr "رسانه های اجتماعی"
+
+#: admin/config/admin-options.php:281
+msgid "Social media link"
+msgstr "پیوند رسانه های اجتماعی"
+
+#: admin/fields/border/border.php:51 admin/fields/typography/typography.php:214
+msgid "Solid"
+msgstr "جامد"
+
+#: admin/config/admin-options.php:222
+msgid "Strong Keywords"
+msgstr "کلمات کلیدی قوی"
+
+#: admin/config/admin-options.php:352
+msgid "Subject Field Label"
+msgstr "برچسب فیلد موضوع"
+
+#: admin/config/admin-options.php:357
+msgid "Subject Field Placeholder"
+msgstr "جایبان فیلد موضوع"
+
+#: admin/fields/typography/typography.php:158
+msgid "Subset"
+msgstr "زیر مجموعه"
+
+#: admin/config/admin-options.php:382
+msgid "Target Email Addresses"
+msgstr "آدرس های ایمیل را هدف قرار دهید"
+
+#: admin/config/admin-options.php:171
+msgid "Template Options"
+msgstr "گزینه های الگو"
+
+#: admin/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr "تراز کردن متن"
+
+#: admin/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr "تزیین متن"
+
+#: admin/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr "تبدیل متن"
+
+#: admin/config/admin-options.php:18
+msgid "Thank you for using our product"
+msgstr "از شما برای استفاده از محصول ما متشکریم"
+
+#: admin/config/admin-options.php:400
+msgid "Thank You for your proposal!"
+msgstr "از پیشنهاد شما متشکرم!"
+
+#. Author of the plugin
+msgid "ThemeAtelier"
+msgstr "Shabnam"
+
+#: admin/config/admin-options.php:421
+msgid ""
+"There might me an error with server instead please send us a direct message "
+"at: info@yourdomain.com"
+msgstr ""
+"ممکن است در سرور با مشکلی مواجه شوم، لطفاً یک پیام مستقیم به ما ارسال کنید: "
+"info@yourdomain.com"
+
+#: admin/fields/background/background.php:90 admin/fields/date/date.php:32
+#: admin/fields/datetime/datetime.php:37
+msgid "To"
+msgstr "به"
+
+#: admin/fields/border/border.php:25 admin/fields/spacing/spacing.php:25
+msgid "top"
+msgstr "بالا"
+
+#: admin/config/admin-options.php:44
+msgid "Turn ON for enable domain pro mode for your website."
+msgstr "برای فعال کردن حالت حرفه ای دامنه برای وب سایت خود، آن را روشن کنید."
+
+#: admin/fields/media/media.php:25 admin/fields/upload/upload.php:24
+msgid "Upload"
+msgstr "آپلود"
+
+#: admin/config/admin-options.php:52
+msgid "Upload Favicon"
+msgstr "آپلود فاویکون"
+
+#: admin/config/admin-options.php:59
+msgid "Upload Logo"
+msgstr "آپلود لوگو"
+
+#: admin/config/admin-options.php:60
+msgid "Upload your site logo to show in the header."
+msgstr "لوگوی سایت خود را آپلود کنید تا در هدر نشان داده شود."
+
+#: admin/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+#: admin/config/admin-options.php:53
+msgid "Use a 32x32 .ico or .png file."
+msgstr "از یک فایل 32x32.ico یا .png استفاده کنید."
+
+#: admin/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr "بازدید شد"
+
+#: admin/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr "موج دار"
+
+#: admin/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr "عرض"
+
+#: admin/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr "فاصله بین کلمات"
+
+#: admin/config/admin-options.php:358
+msgid "Write email subject"
+msgstr "موضوع ایمیل را بنویسید"
+
+#: admin/config/admin-options.php:383
+msgid ""
+"Write your emaill addresses to get email. Multiple email can be separated by "
+"comma , eg: info@domain.com,hi@domain.com"
+msgstr "آدرس ایمیل خود را برای دریافت ایمیل بنویسید. "
+
+#: admin/config/admin-options.php:369
+msgid "Write your proposal"
+msgstr "پیشنهاد خود را بنویسید"
+
+#: admin/fields/group/group.php:141 admin/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr "نمی توانید موارد بیشتری اضافه کنید."
+
+#: admin/fields/group/group.php:142 admin/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr "شما نمی توانید موارد بیشتری را حذف کنید."
+
+#: admin/classes/admin-options.class.php:509
+msgid "You have unsaved changes, save your changes!"
+msgstr "تغییرات ذخیره نشده ای دارید، تغییرات خود را ذخیره کنید!"
+
+#: admin/config/admin-options.php:347
+msgid "Your email address*"
+msgstr "آدرس ایمیل شما*"
+
+#: admin/config/admin-options.php:407
+msgid "Your message has already arrived! We will contact you shortly."
+msgstr "پیام شما قبلا رسیده است! "
+
+#: admin/config/admin-options.php:336
+msgid "Your name"
+msgstr "نام شما"

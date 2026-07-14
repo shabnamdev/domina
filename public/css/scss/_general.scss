@@ -1,0 +1,237 @@
+body {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.7;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:focus,
+a:active {
+	outline: none;
+}
+
+.btn.focus,
+.btn:focus {
+	@include box-shadow(none);
+}
+
+.section-title h2 {
+	font-size: 42px;
+}
+
+h1 {
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 26px;
+}
+
+h4 {
+	font-size: 22px;
+}
+
+h5 {
+	font-size: 20px;
+}
+
+h6 {
+	font-size: 22px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.light-text * {
+	@extend .light-color;
+}
+
+.dark-bg {
+	@extend .dark-bg;
+}
+
+a {
+	@include transition(.7s);
+}
+
+a:hover {
+	@extend .secondary-color;
+	@extend .secondary-color;
+}
+
+/* BUTTONS */
+.btn-default {
+	@extend .secondary-bg;
+	@extend .light-color;
+	border-width: 1px;
+	border-style: solid;
+	@extend .secondary-border;
+	border-radius: 0px;
+	padding: 12px 25px;
+	font-weight: 700;
+	@include transition(.7s);
+}
+
+.btn-default:hover {
+	@extend .transparent-bg;
+	@extend .dark-color;
+}
+
+.btn-default.btn-default-outline {
+	@extend .transparent-bg;
+	@extend .dark-color;
+}
+
+.btn-default:hover.btn-default-outline {
+	@extend .secondary-bg;
+	@extend .light-color;
+	border-width: 1px;
+	border-style: solid;
+	@extend .secondary-border;
+}
+
+.domain-offering {
+	@extend .dark-color;
+	@extend .secondary-border;
+	border-width: 1px;
+	border-style: solid;
+	display: inline-block;
+	padding: 12px 25px;
+	font-weight: 700;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.domain-offering-fill {
+	margin-bottom: 20px;
+	border-width: 0px;
+	@extend .light-bg;
+}
+
+.btn-default.btn-default-light {
+	border-width: 1px;
+	border-style: solid;
+	@extend .light-border;
+	@extend .light-bg;
+	@extend .dark-color;
+}
+
+.btn-default.btn-default-light:hover {
+	@extend .light-color;
+	border-width: 1px;
+	border-style: solid;
+	@extend .light-border;
+	@extend .transparent-bg;
+}
+
+/* SECTION TITLES */
+
+.section-title {
+	position: relative;
+	padding-left: 100px;
+	padding-top: 60px;
+	margin-top: 80px;
+	margin-bottom: 60px;
+}
+
+.section-title h2 {
+	font-size: 36px;
+	position: relative;
+	z-index: 1;
+}
+
+.section-title h3 {
+	@extend .gray-color-2;
+	font-size: 230px;
+	position: absolute;
+	line-height: 0px;
+	left: -130px;
+	top: 0;
+	opacity: 0.8;
+}
+
+.secondary-bg.light-text .section-title h3 {
+	opacity: 0.6;
+}
+
+.section-title-1 {
+	position: relative;
+}
+
+.section-title-1:before {
+	content: "";
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 80px;
+	height: 80px;
+	@extend .secondary-bg;
+	border-radius: 100%;
+	opacity: 0.3;
+	transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+}
+
+.section-title-2 h2 {
+	@extend .gray-color;
+	font-size: 120px;
+	opacity: 0.4;
+	margin-bottom:0px;
+	line-height:90px;
+}
+
+body {
+	font-family: $body_font;
+	@extend .gray-color;
+	line-height: 1.5em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $heading_font;
+	@extend .dark-color;
+}
+.parallax-bg {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+/* BG OVERLAY */
+.bg-overlay {
+	position: relative;
+}
+.bg-overlay::before {
+	background: rgba(0, 0, 0, 0.8);
+	content: "";
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+}

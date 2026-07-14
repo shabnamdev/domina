@@ -1,0 +1,51 @@
+/* GREDIENTS */
+.primary-gredient, .left-bg-area, .sea .wave {
+  background: -webkit-linear-gradient(left, #5a02b4, #6509e2);
+  /* Webkit browsers */
+  background: -moz-linear-gradient(left, #5a02b4, #6509e2);
+  /* Firefox(old) */
+  background: -o-linear-gradient(left, #5a02b4, #6509e2);
+  /* Opera(old) */
+  background: -ms-linear-gradient(left, #5a02b4 0%, #6509e2 100%);
+  /* IE10 */
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, start-colorstr=#5a02b4, end-colorstr=#6509e2);
+  /* IE9 */
+  ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, start-colorstr=#fcd702, end-colorstr=#6509e2)";
+  /* IE8 */
+  background: linear-gradient(left, #5a02b4 0%, #6509e2 100%);
+  /* W3C */ }
+
+/* FILL */
+.shape{
+  fill:#6509e2!important;
+  }
+
+/* COLORS */
+
+.primary-color, .single-feature:hover i, .single-feature:hover h3, .domain-pricing ul li a {
+	color: #6509e2!important;
+}
+
+.secondary-color, a:hover, .domain-offer, .feature-list li, .v4-hero .single-h-feature:hover i, .v4-hero .single-h-feature:hover h3, .hero-right .hero-search-form ul li a:hover, .single-feature i, .single-service i, .domain-pricing ul li a:hover {
+	color: #5a02b4!important;
+}
+
+
+/* BACKGROUNDS */
+
+.primary-bg, .loader:after, .single-pricing-offer {
+	background: #6509e2!important;
+}
+
+.secondary-bg, .btn-default, .btn-default.btn-default-outline:hover, .section-title-1:before, .loader:before, .social-links a:hover, .search-form button:hover, .sea .wave:nth-of-type(3), .single-service:hover, .contact-form h3, .domina-pricing thead {
+	background: #5a02b4!important;
+}
+
+/* BORDERS */
+.primary-border {
+	border-color: #6509e2!important;
+}
+
+.secondary-border, .btn-default, .btn-default.btn-default-outline:hover, .domain-offering, .gray-bg-2 .social-links a, .single-feature .social-links a, .single-service .social-links a, #pricing-table .social-links a, .domain-pricing-v2 .social-links a {
+	border-color: #5a02b4!important;
+}

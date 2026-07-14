@@ -1,0 +1,190 @@
+/* RESPONSIVE CSS  */
+
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+	.hero-area h1 {
+		font-size: 40px;
+	}
+	.section-title {
+		padding-left: 150px;
+		padding-top: 50px;
+	}
+	.section-title h3 {
+		font-size: 150px;
+		left: 0px;
+	}
+	.left-shape {
+		width: 300px;
+		height: 300px;
+	}
+}
+
+@media (min-width: 992px) {
+	.absolute-title {
+		position: absolute;
+		top: 0;
+		left: 30px;
+		z-index: 9;
+		text-align: left !important;
+	}
+	.p-300px-t {
+		padding-top: 300px;
+	}
+	.p-250px-t {
+		padding-top: 250px;
+	}
+}
+
+@media (max-width: 991px) {
+	.bg-area {
+		width: 100%;
+	}
+	.md-color-light,
+	.md-color-light li {
+		color: #ffffff!important;
+	}
+	.domain-name {
+		font-size: 48px;
+	}
+	.hero-area h1 {
+		font-size: 32px;
+	}
+	.section-title-2 h2 {
+		font-size: 80px;
+		line-height: 60px;
+	}
+	.feature-bottom h2 {
+		font-size: 28px;
+	}
+	.domina-pricing thead th {
+		min-width: 100px;
+	}
+	.domain-pricing {
+		margin-top: 0px;
+	}
+	.left-shape {
+		width: 300px;
+		height: 300px;
+	}
+	main,
+	.content--intro,
+	.content__inner,
+	.content {
+		height: auto;
+	}
+	.shape-wrap {
+		display: none;
+	}
+	.content--fixed {
+		position: absolute;
+	}
+	.next-demo {
+		position: absolute;
+		bottom: -50px;
+	}
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	.offer-form {
+		background: $light;
+	}
+	.next-demo {
+		position: absolute;
+		bottom: -50px;
+	}
+	.table .btn-default{
+		margin-bottom:0px;
+	}
+	.offer-form .btn-default {
+		margin-bottom: 0px;
+	}
+	.left-shape {
+		width: 250px;
+		height: 250px;
+	}
+	.section-title-2 h2 {
+		font-size: 45px;
+		line-height: 45px;
+	}
+	.domain-pricing ul li a {
+		font-size: 16px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.feature-bottom h2 {
+		font-size: 25px;
+	}
+	.domina-pricing {
+		border-bottom: 1px solid $gray;
+	}
+	.domina-pricing thead th {
+		min-width: 160px;
+	}
+	.domain-pricing {
+		margin-top: 0px;
+	}
+	.search-form .btn {
+		margin-right: 0px;
+	}
+	.single-h-feature {
+		padding-left: 40px;
+	}
+	.single-h-feature i {
+		font-size: 30px;
+	}
+	.section-title {
+		margin-bottom: 45px;
+	}
+	.section-title {
+		padding-left: 50px;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.section-title h3 {
+		font-size: 70px;
+		left: 0px;
+	}
+	.domain-name {
+		font-size: 35px;
+	}
+	#footer-top ul li a {
+		margin-bottom: 5px;
+	}
+	.hero-btn-wrapper {
+		display: block;
+	}
+	.domain-offering,
+	.hero-btn-wrapper .btn {
+		margin-bottom: 25px;
+		display: block;
+		margin-right: 0px;
+	}
+	.social-links{
+		margin-bottom:30px;
+	}
+	.hero-area .social-links{
+		margin-bottom: 0px;
+	}
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.domain-name {
+		font-size: 60px;
+	}
+	.hero-btn-wrapper {
+		display: flex;
+	}
+	.domain-offering,
+	.hero-btn-wrapper .btn {
+		display: inline-block;
+		margin-right: 10px;
+	}
+}
